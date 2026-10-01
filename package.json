@@ -1,6 +1,6 @@
 {
-  "name": "@your-github-username/sample-package",
-  "version": "1.0.0",
+  "name": "@abhijith-hrblock-sandbox/sample-package",
+  "version": "1.0.1",
   "description": "A small sample package for publishing to GitHub Packages.",
   "main": "index.js",
   "files": [
